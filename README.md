@@ -1,6 +1,6 @@
 # DNSCloak for iOS
 
-_iOS GUI and wrapper for [dnscrypt-proxy 2](https://github.com/jedisct1/dnscrypt-proxy)._
+_iOS GUI and wrapper for [dnscrypt-proxy 2](https://github.com/DNSCrypt/dnscrypt-proxy)._
 
 Uses [Apache Cordova](https://cordova.apache.org) as app platform & [Framework7](https://framework7.io) as UI.
 

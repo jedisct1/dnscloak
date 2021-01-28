@@ -1,5 +1,5 @@
 /* Copyright (C) 2019 Sergey Smirnov
- * 
+ *
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -9,7 +9,7 @@ package plugins
 import (
 	"github.com/miekg/dns"
 
-	dnscrypt "github.com/jedisct1/dnscrypt-proxy/dnscrypt-proxy"
+	dnscrypt "github.com/DNSCrypt/dnscrypt-proxy/dnscrypt-proxy"
 )
 
 type PluginFixServfail struct {
